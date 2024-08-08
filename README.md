@@ -11,3 +11,5 @@ CODE-3:https://github.com/prathapsriram/DAA-2203A51516/blob/main/Insertionsort.c
 WEEK1-3:https://github.com/prathapsriram/DAA-2203A51516/blob/main/week(1).c
 
 WEEK2-1:https://github.com/prathapsriram/DAA-2203A51516/blob/main/week-2.c
+
+WEEK2-2:https://github.com/prathapsriram/DAA-2203A51516/blob/main/week2.c

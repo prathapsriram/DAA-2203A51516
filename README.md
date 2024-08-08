@@ -9,3 +9,5 @@ WEEK1-2:https://github.com/prathapsriram/DAA-2203A51516/blob/main/ASS-1(DAA)SEC.
 CODE-3:https://github.com/prathapsriram/DAA-2203A51516/blob/main/Insertionsort.c
 
 WEEK1-3:https://github.com/prathapsriram/DAA-2203A51516/blob/main/week(1).c
+
+WEEK2-1:https://github.com/prathapsriram/DAA-2203A51516/blob/main/week-2.c

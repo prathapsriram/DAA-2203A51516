@@ -15,3 +15,5 @@ WEEK2-1:https://github.com/prathapsriram/DAA-2203A51516/blob/main/week-2.c
 WEEK2-2:https://github.com/prathapsriram/DAA-2203A51516/blob/main/week2.c
 
 BINARY:https://github.com/prathapsriram/DAA-2203A51516/blob/main/binary.c
+
+MERGE:-https://github.com/prathapsriram/DAA-2203A51516/blob/main/MERGE%20SORT.c
